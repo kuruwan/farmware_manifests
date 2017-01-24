@@ -1,0 +1,12 @@
+{
+ "package": "plant-detection",
+ "language": "python",
+ "author": "Farmbot.io",
+ "description": "Detects and marks green plants in a (not green) soil area image using Python OpenCV.",
+ "version": "0.0.1",
+ "min_os_version_major": 3,
+ "url": "https://github.com/FarmBot-Labs/image-to-plant-coordinates",
+ "zip": "https://github.com/FarmBot-Labs/image-to-plant-coordinates/releases/v0.0.1/plant-detection.zip",
+ "executable": "python",
+ "args": ["Plant_Detection.py"]
+}

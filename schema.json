@@ -1,6 +1,6 @@
 {
  "$schema": "http://json-schema.org/draft-04/schema#",
- "id": "http://yourdomain.com/schemas/myschema.json",
+ "id": "https://raw.githubusercontent.com/FarmBot-Labs/farmware_manifests/master/schema.json",
  "title": "Farmware Schema",
  "type": "object",
  "properties": {
