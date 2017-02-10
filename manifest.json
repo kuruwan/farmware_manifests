@@ -1,4 +1,8 @@
 [{
  "manifest": "https://raw.githubusercontent.com/FarmBot-Labs/farmware_manifests/master/packages/plant-detection/manifest.json",
  "name": "plant-detection"
+},
+{
+ "manifest": "https://raw.githubusercontent.com/FarmBot-Labs/farmware_manifests/master/packages/take-photo/manifest.json",
+ "name": "take-photo"
 }]
