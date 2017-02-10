@@ -8,5 +8,5 @@
  "url": "https://github.com/FarmBot-Labs/Take-Photo",
  "zip": "https://github.com/FarmBot-Labs/Take-Photo/archive/master.zip",
  "executable": "python",
- "args": ["take_photo.py"]
+ "args": ["Take-Photo-master/take_photo.py"]
 }
