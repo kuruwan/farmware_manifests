@@ -8,5 +8,5 @@
  "url": "https://github.com/FarmBot-Labs/plant-detection",
  "zip": "https://github.com/FarmBot-Labs/plant-detection/archive/master.zip",
  "executable": "python",
- "args": ["Plant_Detection.py"]
+ "args": ["plant-detection-master/Plant_Detection.py"]
 }
