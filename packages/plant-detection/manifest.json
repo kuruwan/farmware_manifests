@@ -2,11 +2,11 @@
  "package": "plant-detection",
  "language": "python",
  "author": "Farmbot.io",
- "description": "Detects and marks green plants in a (not green) soil area image using Python OpenCV.",
+ "description": "Detect and mark plants. Prerequisite: camera-calibration",
  "version": "0.0.1",
- "min_os_version_major": 3,
+ "min_os_version_major": 4,
  "url": "https://raw.githubusercontent.com/FarmBot-Labs/farmware_manifests/master/packages/plant-detection/manifest.json",
  "zip": "https://github.com/FarmBot-Labs/plant-detection/archive/master.zip",
  "executable": "python",
- "args": ["plant-detection-master/Plant_Detection.py"]
+ "args": ["plant-detection-master/quickscripts/capture_and_detect_coordinates.py"]
 }
