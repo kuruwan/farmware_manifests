@@ -4,7 +4,7 @@
   "author": "FarmBot, Inc.",
   "description": "Take a photo using a USB or Raspberry Pi camera.",
   "farmware_manifest_version": "2.0.0",
-  "package_version": "1.0.3",
+  "package_version": "1.0.5",
   "farmbot_os_version_requirement": ">=3.0.0",
   "farmware_tools_version_requirement": ">=0.0.0",
   "url": "https://raw.githubusercontent.com/FarmBot-Labs/farmware_manifests/master/packages/take-photo/manifest_v2.json",
